@@ -1,0 +1,2 @@
+# NRF_MiniCopter
+基于NRF24L01通信的Mini四轴飞行器
